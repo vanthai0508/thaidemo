@@ -1,0 +1,33 @@
+C:\c#\demo\BT02_102190381_TranVanThai\BT02_102190381_TranVanThai\bin\Debug\BT02_102190381_TranVanThai.exe.config
+C:\c#\demo\BT02_102190381_TranVanThai\BT02_102190381_TranVanThai\bin\Debug\BT02_102190381_TranVanThai.exe
+C:\c#\demo\BT02_102190381_TranVanThai\BT02_102190381_TranVanThai\bin\Debug\BT02_102190381_TranVanThai.pdb
+C:\c#\demo\BT02_102190381_TranVanThai\BT02_102190381_TranVanThai\obj\Debug\BT02_102190381_TranVanThai.csprojAssemblyReference.cache
+C:\c#\demo\BT02_102190381_TranVanThai\BT02_102190381_TranVanThai\obj\Debug\BT02_102190381_TranVanThai.Form1.resources
+C:\c#\demo\BT02_102190381_TranVanThai\BT02_102190381_TranVanThai\obj\Debug\BT02_102190381_TranVanThai.Form2.resources
+C:\c#\demo\BT02_102190381_TranVanThai\BT02_102190381_TranVanThai\obj\Debug\BT02_102190381_TranVanThai.Properties.Resources.resources
+C:\c#\demo\BT02_102190381_TranVanThai\BT02_102190381_TranVanThai\obj\Debug\BT02_102190381_TranVanThai.csproj.GenerateResource.cache
+C:\c#\demo\BT02_102190381_TranVanThai\BT02_102190381_TranVanThai\obj\Debug\BT02_102190381_TranVanThai.csproj.CoreCompileInputs.cache
+C:\c#\demo\BT02_102190381_TranVanThai\BT02_102190381_TranVanThai\obj\Debug\BT02_102190381_TranVanThai.exe
+C:\c#\demo\BT02_102190381_TranVanThai\BT02_102190381_TranVanThai\obj\Debug\BT02_102190381_TranVanThai.pdb
+C:\Users\TRAN VAN THAI\Downloads\BT02_102190381_TranVanThai\BT02_102190381_TranVanThai\bin\Debug\BT02_102190381_TranVanThai.exe.config
+C:\Users\TRAN VAN THAI\Downloads\BT02_102190381_TranVanThai\BT02_102190381_TranVanThai\bin\Debug\BT02_102190381_TranVanThai.exe
+C:\Users\TRAN VAN THAI\Downloads\BT02_102190381_TranVanThai\BT02_102190381_TranVanThai\bin\Debug\BT02_102190381_TranVanThai.pdb
+C:\Users\TRAN VAN THAI\Downloads\BT02_102190381_TranVanThai\BT02_102190381_TranVanThai\obj\Debug\BT02_102190381_TranVanThai.csprojAssemblyReference.cache
+C:\Users\TRAN VAN THAI\Downloads\BT02_102190381_TranVanThai\BT02_102190381_TranVanThai\obj\Debug\BT02_102190381_TranVanThai.Form1.resources
+C:\Users\TRAN VAN THAI\Downloads\BT02_102190381_TranVanThai\BT02_102190381_TranVanThai\obj\Debug\BT02_102190381_TranVanThai.Form2.resources
+C:\Users\TRAN VAN THAI\Downloads\BT02_102190381_TranVanThai\BT02_102190381_TranVanThai\obj\Debug\BT02_102190381_TranVanThai.Properties.Resources.resources
+C:\Users\TRAN VAN THAI\Downloads\BT02_102190381_TranVanThai\BT02_102190381_TranVanThai\obj\Debug\BT02_102190381_TranVanThai.csproj.GenerateResource.cache
+C:\Users\TRAN VAN THAI\Downloads\BT02_102190381_TranVanThai\BT02_102190381_TranVanThai\obj\Debug\BT02_102190381_TranVanThai.csproj.CoreCompileInputs.cache
+C:\Users\TRAN VAN THAI\Downloads\BT02_102190381_TranVanThai\BT02_102190381_TranVanThai\obj\Debug\BT02_102190381_TranVanThai.exe
+C:\Users\TRAN VAN THAI\Downloads\BT02_102190381_TranVanThai\BT02_102190381_TranVanThai\obj\Debug\BT02_102190381_TranVanThai.pdb
+C:\code\c#\BT02_102190381_TranVanThai\BT02_102190381_TranVanThai\bin\Debug\BT02_102190381_TranVanThai.exe.config
+C:\code\c#\BT02_102190381_TranVanThai\BT02_102190381_TranVanThai\bin\Debug\BT02_102190381_TranVanThai.exe
+C:\code\c#\BT02_102190381_TranVanThai\BT02_102190381_TranVanThai\bin\Debug\BT02_102190381_TranVanThai.pdb
+C:\code\c#\BT02_102190381_TranVanThai\BT02_102190381_TranVanThai\obj\Debug\BT02_102190381_TranVanThai.csprojAssemblyReference.cache
+C:\code\c#\BT02_102190381_TranVanThai\BT02_102190381_TranVanThai\obj\Debug\BT02_102190381_TranVanThai.Form1.resources
+C:\code\c#\BT02_102190381_TranVanThai\BT02_102190381_TranVanThai\obj\Debug\BT02_102190381_TranVanThai.Form2.resources
+C:\code\c#\BT02_102190381_TranVanThai\BT02_102190381_TranVanThai\obj\Debug\BT02_102190381_TranVanThai.Properties.Resources.resources
+C:\code\c#\BT02_102190381_TranVanThai\BT02_102190381_TranVanThai\obj\Debug\BT02_102190381_TranVanThai.csproj.GenerateResource.cache
+C:\code\c#\BT02_102190381_TranVanThai\BT02_102190381_TranVanThai\obj\Debug\BT02_102190381_TranVanThai.csproj.CoreCompileInputs.cache
+C:\code\c#\BT02_102190381_TranVanThai\BT02_102190381_TranVanThai\obj\Debug\BT02_102190381_TranVanThai.exe
+C:\code\c#\BT02_102190381_TranVanThai\BT02_102190381_TranVanThai\obj\Debug\BT02_102190381_TranVanThai.pdb
